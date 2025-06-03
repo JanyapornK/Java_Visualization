@@ -5,6 +5,7 @@ StockDataProcessing: Processes CSV files, calculates statistics, and serializes 
 StockDataVisualization: Deserializes data and displays interactive line charts
 
 **Program 1: StockDataProcessing**
+
 Functionality: Processes CSV stock data files
 
 Calculates:
@@ -24,6 +25,7 @@ Generates serialized files:
 AppleStock.ser, HSBCStock.ser, etc.
 
 **Program 2: StockDataVisualization**
+
 Functionality:
 
 Loads serialized stock data
